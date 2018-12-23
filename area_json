@@ -1,0 +1,12 @@
+[
+  {
+    "area": "Shanghai",
+    "name": "Lily",
+    "age": 18
+  },
+  {
+    "area": "Hangzhou",
+    "name": "Lan",
+    "age": 26
+  }
+]
