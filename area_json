@@ -13,5 +13,10 @@
     "area": "Hangzhou",
     "name": "Oscar",
     "age": 30
+  },
+  {
+    "area": "Beijing",
+    "name": "Peter",
+    "age": 31
   }
 ]
